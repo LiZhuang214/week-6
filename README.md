@@ -34,3 +34,4 @@ where `musa-620` should be the same name of the environment you have been using.
   - sections: introduction, basics, elements, attributes
 - [Tutorial on Web Scraping with Requests and BeautifulSoup](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/)
 - [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+- [101 Web Scraping Exercises](https://github.com/stanfordjournalism/search-script-scrape)
