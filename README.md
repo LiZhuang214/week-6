@@ -26,8 +26,6 @@ where `musa-620` should be the same name of the environment you have been using.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Selenium](https://selenium-python.readthedocs.io)
 
-## Readings
-
 ## Useful Links and Reference Materials
 
 - [Insights into Housing Markets from Scraping Craigslist](https://geoffboeing.com/2016/08/craigslist-rental-housing-insights/)
@@ -35,4 +33,4 @@ where `musa-620` should be the same name of the environment you have been using.
 - [HTML tutorial](https://www.w3schools.com/html/html_intro.asp)
   - sections: introduction, basics, elements, attributes
 - [Tutorial on Web Scraping with Requests and BeautifulSoup](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/)
-- [CSS Selector](https://www.w3schools.com/cssref/css_selectors.asp)
+- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
